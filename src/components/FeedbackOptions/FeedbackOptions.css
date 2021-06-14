@@ -1,0 +1,17 @@
+.Options {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Option {
+  list-style: none;
+}
+
+.Option__button {
+  width: 100px;
+  height: 50px;
+  font-size: large;
+  font-family: fantasy;
+
+  color: blue;
+}
